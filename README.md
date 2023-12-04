@@ -14,7 +14,7 @@ simulation.
 
 For example in RDT2.0 if you select corrupt package, it will continue to send corrupt packages EVEN THOUGH 
 the "Send Instructions" button is disabled. After sending the corrupt package, 
-~~THE CHECKBOX SHOULD BE UNCHECKED BEFORE THE NEXT PACKAGE IS SENT~~ to send an uncorrupted 
+__THE CHECKBOX SHOULD BE UNCHECKED BEFORE THE NEXT PACKAGE IS SENT__ to send an uncorrupted 
 package or the next package will be corrupted as well and it will continuosly send corrupted packages.
 
 
